@@ -5,3 +5,4 @@
 ##### h5
 ###### h6
 Added some sample markdown content
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
