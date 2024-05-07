@@ -1,6 +1,14 @@
 # Header h1
 ## h2
+Some code samples
 ### h3
+```
+$ git init
+```
+### h3 
+``` javascript
+var myVar = "Hello dolly!";
+```
 #### h4
 ##### h5
 ###### h6
