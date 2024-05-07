@@ -1,4 +1,7 @@
 # Header h1
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
 ## h2
 Some code samples
 ### h3
